@@ -1,0 +1,15 @@
+.smart_block {
+  width: 700px;
+  padding: 6px 12px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+.flex_smart {
+  display: flex;
+  flex-direction: row;
+}
+.flex_smart_text {
+  font-size: 1.2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: bold;
+}

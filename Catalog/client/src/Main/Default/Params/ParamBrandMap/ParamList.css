@@ -1,0 +1,10 @@
+.brand_input {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    display: inline;
+    width: 80%;
+  }
+  .brand_check {
+    width: 50%;
+    padding: 7px 0px 0px 20px;
+  }
+  

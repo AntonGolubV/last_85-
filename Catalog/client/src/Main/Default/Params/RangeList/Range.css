@@ -1,0 +1,45 @@
+.price,
+.storage,
+.ram,
+.camera,
+.hz {
+  width: 100%;
+  height: 75px;
+}
+.price_text,
+.brand_text,
+.storage_text,
+.ram_text,
+.camera_text,
+.hz_text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 100%;
+  height: 25px;
+  padding: 6px 12px;
+}
+.price_param,
+.storage_param,
+.ram_param,
+.camera_param,
+.hz_param {
+  width: 100%;
+  height: 60%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid rgb(205, 202, 202);
+}
+.divider {
+  width: 12px;
+  height: 2px;
+  background: #9a9a9a;
+}
+.price_input,
+.storage_input,
+.ram_input,
+.camera_input,
+.hz_input {
+  width: 40%;
+  height: 70%;
+  padding: 6px 12px;
+}
